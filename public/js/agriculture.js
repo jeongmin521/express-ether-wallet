@@ -19,7 +19,7 @@ $(document).ready(function () {
     });
   }
   const productRegistryContractAddress =
-    "0x1552900c0Dfa1A446e7C0337bb2B85bA85BED458";
+    "0xb2BAaA8291D8D8A680b09A4BbCA0638B3e1a50C5";
   const contract = new web3.eth.Contract(
     productRegistryContractABI,
     productRegistryContractAddress
